@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OwnChatApp</string>
+    <string name="api_key">kbv656d4sdyc</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiRXJpa0thcmVub3ZpY2gifQ.K-2XXuVDm1v2NEMf7pI9VTPfJJy1nfvdpec0EqzbqyU</string>
+</resources>
+
+<!-- I've inserted a user named ErikKarenovich (for token) -->
